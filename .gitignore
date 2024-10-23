@@ -1,0 +1,13 @@
+# Ignore model files
+catboost_model.pkl
+prophet_model.pkl
+
+# Ignore data files
+train_features.csv
+
+# Ignore virtual environment folder
+streamlit/
+
+# Ignore all .csv and .pkl files in the root directory
+*.csv
+*.pkl
